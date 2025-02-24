@@ -36,6 +36,9 @@ The **Password Strength Checker** is a simple yet effective web-based tool that 
 ![check3](https://github.com/user-attachments/assets/b2ac1ebf-dc00-4587-ba4c-2065a4ac71c3)
 
 ---
+![check4](https://github.com/user-attachments/assets/6c24a0bf-9798-42ad-bdd7-b8d0fe890a46)
+
+---
 
 ## 🛠️ Setup & Usage
 
